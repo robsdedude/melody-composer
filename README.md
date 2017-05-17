@@ -1,5 +1,7 @@
-Recent dev branch: phrases
-
+This program is part of my bachelor thesis which can be found on
+[arXiv](https://arxiv.org/pdf/1612.09212.pdf). It's a machine learning algorithm
+that generates monophonic melodies similar to those of a phrase annotated
+data-set. In- and output are midi files (i.e. machine readable music).
 
 Setup
 =====
